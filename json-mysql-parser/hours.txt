@@ -1,0 +1,13 @@
+Goal 1 (Mysql to JSON parser):
+-----------------------------
+
+Notes:
+I did not see the footnote about the commit history so I initially squashed everything in one commit - I pushed everything again in 4 different iterations (so please do not mind the timestamp of the commit history) - this is to indicate that it took me about 4 iterations in total to achieve the result.
+
+Hours dedicated:
+1) Research to query MySQL - 30min
+2) Research to use JSON - 30min
+3) Research to use requestbin - 10min
+4) Coding and fixing encoding issues - 2h
+
+Total time to script this ~ 3h
